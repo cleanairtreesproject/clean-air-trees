@@ -14,7 +14,7 @@ const whyMatters = [
   {
    
     title: "Protects Human Health",
-    desc: "Cleaner air reduces diseases like asthma, lung cancer, heart disease, allergies, and breathing problems.",
+    desc: "Cleaner air reduces diseases like asthma, lungs cancer, heart disease, allergies, and breathing problems.",
     color: "bg-green-50 border-green-200",
   },
   {
